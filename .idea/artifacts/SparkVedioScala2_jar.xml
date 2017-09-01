@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SparkVedioScala2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkVedioScala2_jar</output-path>
+    <root id="archive" name="SparkVedioScala2.jar">
+      <element id="module-output" name="SparkVedioScala2" />
+    </root>
+  </artifact>
+</component>
